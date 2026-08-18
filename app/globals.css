@@ -1,5 +1,3 @@
-﻿@import "tailwindcss";
-
 :root { --ink:#162238; --muted:#68768d; --line:#dfe5ed; --paper:#f5f7fb; --blue:#2f63dd; --navy:#17243a; }
 * { box-sizing:border-box; }
 body { margin:0; background:var(--paper); color:var(--ink); font-family:Arial,"Noto Sans KR",sans-serif; }
